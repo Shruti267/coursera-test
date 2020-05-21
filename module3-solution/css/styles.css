@@ -1,0 +1,68 @@
+#header-nav {
+  background-color: black;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1{
+  font-family: 'Lora', serif;
+  color: orange;
+  align-content: center;
+  font-weight: bold;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list a{
+  color: black;
+  font-weight: orange;
+}
+
+#nav-list li{
+	 text-align: center;
+	 background-color: orange; 
+	 margin-bottom: 3px;
+	 font-size: 1.1em;
+}
+
+#heading{
+	background-color: white; 
+}
+
+
+.container {
+     border: 5px;
+    
+}
+
+.container h2{
+	 text-align: center;
+}
+
+.container h3{
+	 text-align: center;
+	 font-size: 1.2em;
+}
+
+#i1{
+	margin: 10px;
+	background-color: yellow; 
+}
+
+.container text-content{
+	justify-content: center;
+}
+
+
+#i2{
+	margin: 10px;
+	background-color: yellow; 
+	margin-top: 100px;
+}
